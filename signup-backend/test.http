@@ -2,8 +2,8 @@ POST http://localhost:5000/api/signup
 Content-Type: application/json
 
 {
-    "fullName":"Promise",
-    "userName":"proboy",
-    "email":"promiseukaimo@gmail.com",
+    "fullname":"Benjamin",
+    "username":"benboy",
+    "email":"benjitableeukaimo@gmail.com",
     "password":"123456"
 }
